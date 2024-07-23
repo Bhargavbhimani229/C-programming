@@ -13,3 +13,37 @@
 
 //  }
 
+// #include <stdio.h>
+// void main (){
+  
+//     int a, b, c;
+
+//     printf("Enter three numbers: ");
+//     scanf("%d %d %d", &a, &b, &c);
+
+//    if ((a < b && b < c) || (c < b && b < a))
+//    {
+//         printf("%d",b);
+//    }
+//     else if ((b < a && a < c) || (c < a && a < b))
+//    {
+//         printf("%d",a);
+//    }
+//     else
+//     {
+//        printf("%d",c);
+//     }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+    
