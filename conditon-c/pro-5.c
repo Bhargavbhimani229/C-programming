@@ -1,8 +1,10 @@
 #include<stdio.h>
+
 void main(){
   char product[30];
   int qu,price;
   float total,dis,netTotal;
+
   printf("Enter product name:");
   scanf("%s",&product);
 
