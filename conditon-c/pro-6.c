@@ -10,7 +10,7 @@ void main()
   printf("\nEnter Your Choice:");
   scanf("%d", &ch);
 
-  printf("\n------------------------------");
+  printf("\n------------------------------\n");
 
   switch (ch)
   {
