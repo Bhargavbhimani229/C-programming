@@ -15,6 +15,8 @@ void main()
       printf(" %d",num1);
     }
     num1++;
+    // num1+=4;
+    // printf(" %d",num1);
   }
     
 }
