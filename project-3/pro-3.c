@@ -8,9 +8,9 @@ int main()
   
     last = num % 10;
     printf("\nLast number is :%d",last);
-    first = num;
     while(num >= 10)
     {
+        first = num;
         num = num / 10;
     }
     first = num;
