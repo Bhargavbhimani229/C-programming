@@ -1,12 +1,12 @@
-// * * * *
+// * * * * 
 // *       *
-// * * * *
+// * * * * 
 // *       *
-// * * * *
+// * * * * 
 #include <stdio.h>
 int main()
 {
-  int n = 4;
+  int n = 5;
   for (int i = 0; i < n - 1; i++)
   {
     printf("* ");
@@ -34,6 +34,5 @@ int main()
     printf("* ");
   }
   printf("\n");
-
   return 0;
 }
