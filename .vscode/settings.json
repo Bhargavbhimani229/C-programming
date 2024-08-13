@@ -59,6 +59,7 @@
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
     "pro-1": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "TRY.C": "cpp"
   }
 }
