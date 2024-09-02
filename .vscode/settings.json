@@ -60,6 +60,8 @@
   "files.associations": {
     "pro-1": "c",
     "stdio.h": "c",
-    "TRY.C": "cpp"
+    "TRY.C": "cpp",
+    "string.h": "c",
+    "*.tcc": "c"
   }
 }
